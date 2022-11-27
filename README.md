@@ -2,6 +2,8 @@
 
 📌 Desarrollo del modulo N°2 - POO - con las alumnas.
 
+✋🏽 - Recuerden siempre entrar en las carpetas SRC.
+
 📚 - Encontraremos en POO primeras instancias y objetos creados en clase, e implementacion de toString.
 
 📚 - Encontraremos en POOll intancias y objetos multiples, practicando modificadores de acceso y  retornando valores por medio de los metodos.
