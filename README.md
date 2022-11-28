@@ -4,7 +4,7 @@
 
 ✋🏽 - Recuerden siempre entrar en las carpetas SRC.
 
-📚 - Encontraremos en POO primera instancia y objeto creado en clase, e implementacion de toString.
+📚 - Encontraremos en POO nuestra primera instancia y objeto creado en clase, e implementacion de toString.
 
 📚 - Encontraremos en POOll intancias y objetos multiples, practicando modificadores de acceso y retornando valores por medio de los metodos.
 
