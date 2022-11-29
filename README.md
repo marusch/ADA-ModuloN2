@@ -14,3 +14,7 @@
    - Constructores vacios, con parametros (o argumentos) y  sobrecarga, 
    - Metodos,
    - E implementacion de toString.
+   
+📚 - Encontraremos en POOllll ejercicio de clase "MyContast", practicando una constante utilizando la palabra reservada final y la tarea del ejercicio operaciones.
+
+
