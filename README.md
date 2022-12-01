@@ -15,6 +15,9 @@
    - Metodos,
    - E implementacion de toString.
    
-📚 - Encontraremos en POOllll ejercicio de clase "MyContast", practicando una constante utilizando la palabra reservada final y la tarea del ejercicio operaciones.
+📚 - Encontraremos en POOllll:
+   - Ejercicio de clase "MyContast", practicando una constante utilizando la palabra reservada final y la tarea del ejercicio operaciones.
+   - Ejercicio de clase "Agenda", aprendimos el la importancia del orden, "Pila".
+   - Ejercicio de clase "Contador", utilizamos Gett y Sett.
 
 
